@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Contato</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 40px; background: #f4f4f4; color: #333; }
+        .container { background: white; padding: 20px; border-radius: 8px; max-width: 500px; margin: auto; }
+        h1 { color: #0077cc; }
+        p { line-height: 1.6; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Entre em contato conosco </h1>
+        <p><strong> Multilab Laboratório de Controle de Qualidade </strong> </p>
+        <p><strong></strong> </p>
+        <p><strong>Telefone:</strong> (21) 2616-7356</p>
+        <p><strong>Endereço:</strong> Estrada Demétrio de Freitas,85, Maceió, Niterói-RJ</p>
+        <p><strong> Comercial:</strong> </p> Luana Soares: </p> cormercial1@multilaboratorio.com.br </p> (21) 9.6456-3264 </p> </p>
+            Artur Nogueira: </p> Comercial2@multilaboratorio.com.br </p>  (21) 9.6456-3262 </p>
+         <p><strong> Suporte ao cliente:</strong> </p> Alex Silva: </p> resultados2@multilaboratorio.com.br </p> (21) 9.6456-3263 </p>
+        
+       <p><strong> Área Técnica :</strong> </p> Clarissa Varajão (RT): </p> areatecnica@multilaboratorio.com.br </p>
+        <p><strong> Qualidade :</strong> </p> Lydia Lima: </p> qualidade@multilaboratorio.com.br </p>
+        <p><strong> Diretoria:</strong> </p> Luiz Candiotto: </p> luiz.candiotto@multilaboratorio.com.br </p> </p>  
+            Carlos Augusto Pereira de Brito: </p> brito@multilaboratorio.com.br </p>  
+       
+        
+    </div>
+</body>
+</html>
